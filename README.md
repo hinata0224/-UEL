@@ -4,6 +4,8 @@
 
 - [ヘレの海底都市計画](https://store.steampowered.com/app/2502940/?snr=1_5_9__205)
 
+- [ロタの航海貿易期](https://store.steampowered.com/app/2926310/_/)
+
 ## UnityRoom GitLink
 
 - [UnityRoom](https://unityroom.com/users/uzwcpmt3d7bqsx2enr6o)
